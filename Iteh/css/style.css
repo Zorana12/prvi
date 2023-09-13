@@ -1,0 +1,54 @@
+a.navbar-brand img {
+    height: 80px;
+}
+.nav-link {
+    font-size: 20px;
+}
+.jumbotron.jumbotron-fluid {
+    background: url("../img/library-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron h1, .jumbotron p {
+   color: #fff;
+   font-weight: 500;
+}
+.table.table-hover a:first-child i {    
+    color: #ff4d4d;
+    padding-right: 15px;
+}
+.table.table-hover a:last-child i {
+    color: #00cc66;
+}
+.btn-group .btn-secondary {
+    background-color: #343A40;
+    margin-bottom: 20px;
+}
+.add-btn, .back-to-top, .find-btn, .srch-btn {
+    background-color: #343A40;
+    border-color: #343A40;   
+    color: #fff;
+}
+.add-btn:hover, .back-to-top:hover, .find-btn:hover, .srch-btn:hover {
+    background-color: #999;
+    border-color: #999;
+}
+
+.back-to-top {
+    float: right;
+}
+.find-btn {
+    margin-top: 20px;
+}
+.srch-by-title .search {
+    margin-top: 30px;
+    text-align: center;
+} 
+.srch-output {
+    margin-top: 30px;
+}
+.list-group-item.active {
+    background-color: #343A40;
+    border-color: #343A40;
+}
